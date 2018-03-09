@@ -1,0 +1,10 @@
+name: twitch
+title:
+username:
+account: okaynice
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 292982
+bundleId: 1260334
+url: https://okaynice.shinyapps.io/twitch/
+when: 1520561145.96809
